@@ -1,4 +1,4 @@
-# Sudoku-GUI-Solver
+# Sudoku-Solver
 This is a sudoku solver using the backtracking algorithm.
 
 # Instructions
